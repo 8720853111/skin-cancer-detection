@@ -2,6 +2,8 @@
 Deep learning model for skin cancer classification using CNN
 # 🧬 Skin Cancer Detection using Deep Learning
 
+The model shows strong performance in distinguishing between different skin lesion categories, demonstrating the effectiveness of CNNs in medical image classification.
+
 ## 📌 Problem Statement
 
 Skin cancer is one of the most common types of cancer. Early detection can significantly improve treatment outcomes. This project aims to build a deep learning model to classify skin lesions.
